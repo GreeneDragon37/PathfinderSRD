@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Bluff
+---
+# Skills - Bluff
+
 See Bluff. Opposed by Sense Motive
 
 |        **Circumstances**        | **Bluff Modifier** |

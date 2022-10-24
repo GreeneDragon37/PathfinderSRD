@@ -1,3 +1,10 @@
+---
+Tags:
+ - GM_Screen
+ - Equipment_Rules
+---
+# Equipment - Substance Hardness & Hit Points
+
 See Smashing an Object
 
 |  **Substance**  | **Hardness** |   **Hit Points**    |

@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Gamemastering
+ - Experience
+---
+# Gamemastering - Experience Point Awards
+
 See Designing Encounters
 
 | **CR** | **Total XP** | **1-3** | **4-5** | **6+** |

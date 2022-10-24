@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Gamemastering
+ - Character_Creation
+---
+# Gamemastering - Wealth By Level
+
 See Placing Treasure
 
 | **PC Level*** | **Wealth** |

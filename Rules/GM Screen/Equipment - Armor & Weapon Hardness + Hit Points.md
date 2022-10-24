@@ -1,3 +1,10 @@
+---
+Tags:
+ - GM_Screen
+ - Equipment_Rules
+---
+# Equipment - Armor & Weapon Hardness + Hit Points
+
 See Smashing an Object
 
 |        **Weapon or Shield**        | **Hardness<sup>1</sup>** | **Hit Points<sup>2,3**</sup> |

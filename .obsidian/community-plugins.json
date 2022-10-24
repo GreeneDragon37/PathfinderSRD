@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "obsidian-linter",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "dbfolder",
+  "dataview"
 ]

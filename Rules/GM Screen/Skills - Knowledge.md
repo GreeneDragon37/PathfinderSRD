@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Knowledge
+---
+# Skills - Knowledge
+
 See Knowledge
 
 |                        **Task**                        | **Knowledge DC**  |

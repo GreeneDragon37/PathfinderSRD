@@ -1,6 +1,14 @@
+---
+Tags:
+ - GM_Screen
+ - Combat_Rules
+ - AC
+---
+# Combat - Armor Class Modifiers
+
 See Combat Modifiers
 
-| **Defender is...**                  |    **Melee**    |   **Ranged**   |
+| **Defender is…**                  |    **Melee**    |   **Ranged**   |
 | ----------------------------------- |:---------------:|:--------------:|
 | Behind cover                        |       +4        |       +4       |
 | Blinded                             | -2<sup>1</sup>  | -2<sup>1</sup> |

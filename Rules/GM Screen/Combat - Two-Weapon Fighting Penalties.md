@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Combat_Rules
+ - 2Weapons
+---
+# Combat - Two-Weapon Fighting Penalties
+
 See Two-Weapon Fighting
 
 | **Circumstances**                                     | **Primary Hand** | **Off Hand** |

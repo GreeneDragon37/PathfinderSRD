@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Fly
+---
+# Skills - Wind Effects On Flight
+
 See Fly.
 
 | **Wind Force** | **Wind Speed** | **Checked Size** | **Blown Away Size** | **Fly Penalty** |

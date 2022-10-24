@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Swim
+---
+# Skills - Swim
+
 See Swim. Move at quarter speed.
 
 | **Water Condition** |  **Swim DC**   |

@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Disable_Device
+---
+# Skills - Disable Device
+
 See Disable Device.
 
 | **Device** |  **Time**  | **Disable Device DC*** |         **Example**         |

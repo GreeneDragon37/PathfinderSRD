@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Heal
+---
+# Skills - Heal
+
 See Heal
 
 |                         **Task**                          |      **DC**       |

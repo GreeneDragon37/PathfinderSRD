@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5ea671e6c81e1175",
+        "id": "d7cc526dd36fcae9",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a2d70f00811b10",
+            "id": "bee23bed40f30415",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rules/GM Screen/Skills - Diplomacy.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rules/GM Screen/Skills - Diplomacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rules/GM Screen/Skills - Diplomacy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rules/GM Screen/Skills - Diplomacy.md"
+              }
             }
           },
           {
@@ -150,15 +159,15 @@
   },
   "active": "450c7943e71aea39",
   "lastOpenFiles": [
-    "Rules/GM Screen/GM Screen.md",
-    "Rules/GM Screen/Skills - Wind Effects On Flight.md",
-    "Rules/GM Screen/Skills - Swim.md",
-    "Rules/GM Screen/Skills - Survival.md",
-    "Rules/GM Screen/Skills - Spellcraft.md",
-    "Rules/GM Screen/Skills - Ride.md",
-    "Rules/GM Screen/Skills - Perception.md",
-    "Rules/GM Screen/Skills - Knowledge.md",
-    "Rules/GM Screen/Skills - Heal.md",
-    "Rules/GM Screen/Skills - Fly.md"
+    "Rules/GM Screen/Gamemastering - Experience Point Awards.md",
+    "Rules/GM Screen/Gamemastering - Treasure Values Per Encounter.md",
+    "Rules/GM Screen/Gamemastering - Wealth By Level.md",
+    "Rules/GM Screen/Combat - Armor Class Modifiers.md",
+    "Rules/GM Screen/GM Screen DB.md",
+    "Rules/GM Screen/Combat - Combat Maneuvers.md",
+    "Rules/GM Screen/Combat - Attack Roll Modifiers.md",
+    "Rules/GM Screen/Skills - Climb.md",
+    "Rules/GM Screen/Conditions - Common Conditions.md",
+    "Rules/GM Screen/Combat - Two-Weapon Fighting Penalties.md"
   ]
 }

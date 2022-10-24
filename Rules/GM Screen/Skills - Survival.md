@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Survival
+---
+# Skills - Survival
+
 See Survival.
 
 |         **Track Creatures over Listed Surface**          |     **Survival DC**      |

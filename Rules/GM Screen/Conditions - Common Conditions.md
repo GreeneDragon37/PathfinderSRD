@@ -1,3 +1,10 @@
+---
+Tags:
+ - GM_Screen
+ - Conditions
+---
+# Conditions - Common Conditions
+
 See Conditions
 
 **Blinded**: Creature takes a –2 penalty to AC, loses Dex bonus to AC, and takes a –4 penalty on most Str- and Dex-based skill checks and on opposed Perception skill checks. All opponents are considered to have total concealment (50% miss chance) against the blinded character. Creatures must make a DC 10 Acrobatics skill check to move faster than half speed or fall prone.  

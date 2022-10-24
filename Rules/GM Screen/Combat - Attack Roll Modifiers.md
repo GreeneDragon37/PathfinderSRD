@@ -1,6 +1,14 @@
+---
+Tags:
+ - GM_Screen
+ - Combat_Rules
+ - Attack
+---
+# Combat - Attack Roll Modifiers
+
 See Combat Modifiers
 
-| **Attacker is...**        |   **Melee**    |   **Ranged**   |
+| **Attacker is…**        |   **Melee**    |   **Ranged**   |
 | ------------------------- |:--------------:|:--------------:|
 | Dazzled                   |       -1       |       -1       |
 | Entangled                 | -2<sup>1</sup> | -2<sup>1</sup> |

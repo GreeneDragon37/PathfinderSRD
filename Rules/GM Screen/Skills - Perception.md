@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Perception
+---
+# Skills - Perception
+
 See Perception.
 
 |                   **Detail**                   |       **Perception DC**        |

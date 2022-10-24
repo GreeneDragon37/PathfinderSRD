@@ -1,3 +1,10 @@
+---
+Tags:
+ - GM_Screen
+ - Equipment_Rules
+---
+# Equipment - Breaking Items
+
 See Breaking Items
 
 **7-15: DCs to Break or Burst Items**
@@ -13,7 +20,7 @@ See Breaking Items
 |   Burst chain bonds    |         26         |
 |  Break down iron door  |         28         |
 |     **Condition**      | **DC Adjustment*** |
-|     *Hold portal*      |         +5         |
-|     *Arcane lock*      |        +10         | 
+|     _Hold portal_      |         +5         |
+|     _Arcane lock_      |        +10         | 
 
 *If both apply, use the larger number. 

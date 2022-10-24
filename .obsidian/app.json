@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
   "newLinkFormat": "relative",
-  "useTab": false
+  "useTab": false,
+  "showInlineTitle": false
 }

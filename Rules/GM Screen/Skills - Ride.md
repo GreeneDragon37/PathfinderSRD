@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Ride
+---
+# Skills - Ride
+
 See Ride.
 
 |             **Task**              | **Ride DC** |

@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Gamemastering
+ - Treasure
+---
+# Gamemastering - Treasure Values Per Encounter
+
 See Placing Treasure
 
 **Treasure per Encounter**

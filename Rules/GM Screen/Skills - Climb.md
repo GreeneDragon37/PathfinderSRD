@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Climb
+---
+# Skills - Climb
+
 See Climb.
 
 |             **Example Surface or Activity**              | **Climb DC** |

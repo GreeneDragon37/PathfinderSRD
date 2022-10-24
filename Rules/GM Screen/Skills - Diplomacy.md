@@ -1,3 +1,11 @@
+---
+Tags:
+ - GM_Screen
+ - Skills
+ - Diplomacy
+---
+# Skills - Diplomacy
+
 See Diplomacy.
 
 |          **Starting Attitude**           |       **Diplomacy DC**       |
