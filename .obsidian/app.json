@@ -1,0 +1,10 @@
+{
+  "livePreview": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative",
+  "useTab": false
+}
